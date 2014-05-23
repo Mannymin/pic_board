@@ -28,6 +28,7 @@ gem 'httparty'
 gem 'pry-rails'
 gem 'pry'
 gem "bcrypt-ruby", :require => "bcrypt"
+gem 'rails_12factor'
 
 
 # Use ActiveModel has_secure_password
